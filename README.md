@@ -6,21 +6,12 @@
 
 
 ## Working
-Open terminal. Go into the cloned project directory folder and type the following command:
-
-```$ python3 train_mask_detector.py --dataset dataset```
-
-Now detect the face masks in images
-
-```$ python3 detect_mask_image.py --image images/pic1.jpeg```
-
-Detection in real-time video streams
-
-```$ python3 detect_mask_video.py ```
+* p5.js for making it on the web and use TensorFlow js (ml5.js) to classify.
+* Here I have used my own images for model training and using transfer learning I was able to classify the things.
 
 
 ## Results
-94% accuracy for Face Mask Detection after training via tensorflow-gpu==2.0.0(Google colabs)
+Low maintance light model for survillance purposes. This is a prototype just to show how gate keeping using survillance of masks can be done with ease.
 
 ### Further Enhancements 
  To develope a project which is a door lock system, which opens only when the camera detects that user is wearing a mask.
