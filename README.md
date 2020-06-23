@@ -7,7 +7,7 @@
 
 
 ## Results
-Low maintance light model for survillance purposes. This is a prototype just to show how gate keeping using survillance of masks can be done with ease.
+Low maintance light model for survillance purposes. This is a prototype just to show how gate keeping using survillance of masks can be done with ease. (This project repo was made for Def hack submission which won me 3rd place in Health Hacks)
 
 ### Further Enhancements 
  To develope a project which is a door lock system, which opens only when the camera detects that user is wearing a mask.
